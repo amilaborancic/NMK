@@ -1,0 +1,9 @@
+C:\Users\defaultuser0\Desktop\NMK\obj\Debug\NMK.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\NMK\obj\Debug\NMK.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Desktop\NMK\bin\Debug\NMK.exe.config
+C:\Users\defaultuser0\Desktop\NMK\bin\Debug\NMK.exe
+C:\Users\defaultuser0\Desktop\NMK\bin\Debug\NMK.pdb
+C:\Users\defaultuser0\Desktop\NMK\obj\Debug\NMK.exe
+C:\Users\defaultuser0\Desktop\NMK\obj\Debug\NMK.pdb
+C:\Users\defaultuser0\Desktop\NMK\bin\Debug\NekaBibliotekaLol.dll
+C:\Users\defaultuser0\Desktop\NMK\bin\Debug\NekaBibliotekaLol.pdb

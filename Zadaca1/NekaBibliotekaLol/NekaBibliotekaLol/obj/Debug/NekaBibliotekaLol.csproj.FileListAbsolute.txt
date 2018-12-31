@@ -1,0 +1,5 @@
+C:\Users\defaultuser0\Desktop\NekaBibliotekaLol\NekaBibliotekaLol\obj\Debug\NekaBibliotekaLol.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Desktop\NekaBibliotekaLol\NekaBibliotekaLol\obj\Debug\NekaBibliotekaLol.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\NekaBibliotekaLol\NekaBibliotekaLol\bin\Debug\NekaBibliotekaLol.dll
+C:\Users\defaultuser0\Desktop\NekaBibliotekaLol\NekaBibliotekaLol\bin\Debug\NekaBibliotekaLol.pdb
+C:\Users\defaultuser0\Desktop\NekaBibliotekaLol\NekaBibliotekaLol\obj\Debug\NekaBibliotekaLol.pdb

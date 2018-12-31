@@ -1,0 +1,11 @@
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\Pacijenti.deps.json
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\Pacijenti.dll
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\Pacijenti.pdb
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\NMK.exe
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\NMK.pdb
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\bin\Debug\netstandard1.4\NMK.exe.config
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\obj\Debug\netstandard1.4\Pacijenti.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\obj\Debug\netstandard1.4\Pacijenti.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\obj\Debug\netstandard1.4\Pacijenti.AssemblyInfo.cs
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\obj\Debug\netstandard1.4\Pacijenti.dll
+C:\Users\defaultuser0\Desktop\NMK\Pacijenti\obj\Debug\netstandard1.4\Pacijenti.pdb
